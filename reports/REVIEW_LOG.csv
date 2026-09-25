@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe tối cắt mép dưới bên phải,edited,sửa để sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe tối gần góc dưới bên phải,edited,sửa để sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe vàng giữa ảnh,edited,sửa để sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe sát mép dưới ảnh,added,AI bỏ sót xe; thêm khung theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,box sau xe bus bên trái ảnh,deleted,AI đang box cả 3 xe tại khu vực này; xóa box theo GUIDELINE_LABEL.md
